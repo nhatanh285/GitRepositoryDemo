@@ -1,10 +1,7 @@
 code commit da sua cho lan commit tiep theo thay doi lan thu 3
 commit ngay 15/8/2015
 
-commit o client2
-
-thay doi o client1
-tiep tuc thay doi o client2
+Thay doi o client 1
 
 
 
